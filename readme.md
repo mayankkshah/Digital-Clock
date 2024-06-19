@@ -11,7 +11,7 @@ This repository contains a digital clock implementation using JavaScript. The cl
 
 ## Installation
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/mayankkshah/Digital-Clock.git`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
